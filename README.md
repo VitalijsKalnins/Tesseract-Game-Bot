@@ -1,2 +1,2 @@
 # Tesseract-Game-Bot
-A bot utilizing Tesseract to process game logic to automate tasks in a Pokemon MMO game.
+A bot utilizing Tesseract and OpenCV to process game logic to automate tasks in a Pokemon MMO game.
